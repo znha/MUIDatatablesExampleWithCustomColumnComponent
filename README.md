@@ -1,2 +1,2 @@
-# Muidatatabel example 
+# MUIDatatable example 
 MUIDatatable example with custom column components (edit, delete buttons)
